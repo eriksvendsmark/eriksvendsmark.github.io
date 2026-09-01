@@ -1,0 +1,1 @@
+import{g as e,h as t,r as n,v as r}from"./PageTransition-DjT1RFnT.js";var i=r(e(),1),a=t(),o=i.forwardRef(({className:e,...t},r)=>(0,a.jsx)(`div`,{ref:r,className:n(`rounded-lg border border-border bg-card text-card-foreground shadow-sm`,e),...t}));o.displayName=`Card`;export{o as t};
