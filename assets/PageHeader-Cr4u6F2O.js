@@ -1,0 +1,1 @@
+import{p as e}from"./index-CRj_fAOl.js";var t=e();function n({title:e,lead:n}){return(0,t.jsxs)(`header`,{className:`space-y-3`,children:[(0,t.jsx)(`h1`,{className:`font-serif text-4xl leading-tight tracking-tight sm:text-5xl`,children:e}),(0,t.jsx)(`p`,{className:`text-lg text-muted-foreground`,children:n})]})}export{n as t};
